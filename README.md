@@ -53,8 +53,8 @@ By avoiding intraday noise and capturing **gap-ups**, the night strategy often o
 
 ## 📁 Files
 
-- `strategy_analysis.ipynb` – Main notebook with code and logic
-- `f89d42ab-f777-461c-82f2-1841dd0d5746.png` – Capital Growth comparison image
+- `Day_and_Night_Nifty50.ipynb` – Main notebook with code and logic
+- `Portfolio_Growth.png` – Capital Growth comparison image
 
 ---
 
