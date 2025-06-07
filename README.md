@@ -1,6 +1,6 @@
 # 🌓 Nifty 50 Return Strategy Analysis – Day vs Night vs Buy & Hold
 
-![Portfolio Capital Growth Comparison](WhatsApp Image 2025-06-07 at 11.16.09_9f7752c3.jpg)
+![Portfolio Capital Growth Comparison](./Portfolio_Growth.jpg)
 
 ## 📌 Overview
 
